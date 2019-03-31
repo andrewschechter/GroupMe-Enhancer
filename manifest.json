@@ -1,10 +1,10 @@
 {
-    "name": "GroupMe++ and AdBlock",
+    "name": "GroupMe++",
     "version": "1.0",
-    "description": "Dark mode and image blurring for GroupMe, universal adblock",
+    "description": "Dark mode and privacy media blurring for GroupMe",
     "permissions": [ "activeTab", "storage", "tabs"],
     "background": {
-      "scripts": ["jquery.js", "blocked_domains.js", "background.js", "blur.js"],
+      "scripts": ["jquery.js", "background.js", "blur.js"],
       "persistent": true
     },
 
