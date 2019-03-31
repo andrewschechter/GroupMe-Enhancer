@@ -32,5 +32,5 @@ See also the list of [contributors](https://github.com/justinwoo395/GroupMe-Exte
 
 ## Acknowledgments
 
-* GroupMe-Enhancer is the release version of [this](https://github.com/justinwoo395/GroupMe-Extension), a project Created for [LA Hacks 2019](https://lahacks.com/)
+* GroupMe-Enhancer is the release version intended for publishing of [this](https://github.com/justinwoo395/GroupMe-Extension) project created for [LA Hacks 2019](https://lahacks.com/)
 
