@@ -2,7 +2,7 @@
     "name": "GroupMe++ and AdBlock",
     "version": "1.0",
     "description": "Dark mode and image blurring for GroupMe, universal adblock",
-    "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/", "activeTab", "storage", "tabs"],
+    "permissions": [ "activeTab", "storage", "tabs"],
     "background": {
       "scripts": ["jquery.js", "blocked_domains.js", "background.js", "blur.js"],
       "persistent": true

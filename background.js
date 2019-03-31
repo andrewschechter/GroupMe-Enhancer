@@ -24,16 +24,3 @@ chrome.runtime.onMessage.addListener(
     }
   }
 );
-
-var adCount = 0;
-
-chrome.webRequest.onBeforeRequest.addListener(
-	function logging(details) {
-    adCount += 1;
-		console.log("blocking:", details.url);
-    console.log("# of ads yoten:" + adCount);
-		return {cancel: true };
-	},
-	{urls: blocked_domains},
-	["blocking"]
-);
