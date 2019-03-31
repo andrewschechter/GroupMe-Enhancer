@@ -4,14 +4,14 @@
     "description": "Dark mode and privacy media blurring for GroupMe",
     "permissions": [ "activeTab", "storage", "tabs", "declarativeContent"],
     "background": {
-      "scripts": ["jquery.js", "background.js", "blur.js"],
+      "scripts": ["background.js", "blur.js"],
       "persistent": true
     },
 
     "content_scripts": [
       {
         "matches": ["https://*.groupme.com/*"], 
-        "js": ["jquery.js", "background.js", "blur.js"],
+        "js": ["background.js", "blur.js"],
         "run_at": "document_end"
       }
     ],
