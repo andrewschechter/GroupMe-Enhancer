@@ -2,7 +2,7 @@
     "name": "GroupMe++",
     "version": "1.0",
     "description": "Dark mode and privacy media blurring for GroupMe",
-    "permissions": [ "activeTab", "storage", "tabs"],
+    "permissions": [ "activeTab", "storage", "tabs", "declarativeContent"],
     "background": {
       "scripts": ["jquery.js", "background.js", "blur.js"],
       "persistent": true
