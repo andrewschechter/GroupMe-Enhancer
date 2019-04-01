@@ -12,6 +12,8 @@ GroupMe++ is a Chrome Extension that gives GroupMe users a couple of extra featu
 ### Demo
 
 ![popop](screenshots/popup.jpg)
+![blur animation](screenshots/blur-animation.gif)
+![dark mode animation](screenshots/dark-mode-animation.gif)
 
 ### Installing
 
