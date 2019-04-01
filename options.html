@@ -1,6 +1,27 @@
 <!DOCTYPE html>
   <html>
+
+    <head>
+        <link rel="stylesheet" href="slider.css">
+        <script src="options.js"></script>
+    </head>
+
     <body>
-        <p>Hi, Thanks for Downloading!</p>
-    </body>
+        <h1>GroupMe++ Options</h1>
+        <p1>      Hi there, thanks for downloading! 
+             <br> Here you can change the default blur radius. Refresh GroupMe to see the effects.
+        </p1>
+       
+      <div>
+        <br style="line-height:10px;">
+        <input type="range" min="0" max="25" value="8" id="blur-radius">
+        <span id ="value"></span>
+      </div>  
+     
+      <br style="line-height:10px;">
+      <button id="save">Save</button>
+      <br style="line-height:5px;">
+      <div id="status"></div>   
+
+    </body> 
   </html>
