@@ -13,13 +13,11 @@ GroupMe++ is a Chrome Extension that gives GroupMe users a couple of extra featu
 
 #### Chrome Extension Popup
 
-![popop](screenshots/popup.jpg)
-<img src="https://github.com/andrewschechter/GroupMe-Enhancer/blob/master/screenshots/popup.jpg" width="600">
+<img src="https://github.com/andrewschechter/GroupMe-Enhancer/blob/master/screenshots/popup.jpg" width="650">
 
 #### Blur Animation
 
-![blur animation](screenshots/blur-animation.gif)
-<img src="https://github.com/andrewschechter/GroupMe-Enhancer/blob/master/screenshots/blur-animation.gif" width="600">
+<img src="https://github.com/andrewschechter/GroupMe-Enhancer/blob/master/screenshots/blur-animation.gif" width="650">
 
 
 #### Dark Mode Animation
