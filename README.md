@@ -9,6 +9,10 @@ GroupMe++ is a Chrome Extension that gives GroupMe users a couple of extra featu
 - Ability to blur media from unwanted eyes until hovered over with the mouse.
 - A GroupMe Wide Dark Theme.
 
+### Demo
+
+![popop](screenshots/popup.jpg)
+
 ### Installing
 
 **Manual Installation**
