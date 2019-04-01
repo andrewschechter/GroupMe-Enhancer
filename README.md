@@ -30,5 +30,8 @@ See also the list of [contributors](https://github.com/justinwoo395/GroupMe-Exte
 
 ## Acknowledgments
 
-* GroupMe-Enhancer is the release version of [this](https://github.com/justinwoo395/GroupMe-Extension) project created for [LA Hacks 2019](https://lahacks.com/)
+* GroupMe++ is the release version of [this](https://github.com/justinwoo395/GroupMe-Extension) project created for [LA Hacks 2019](https://lahacks.com/)
+
+## Disclaimer
+* GroupMe++ is in no way affiliated with GroupMe, Skype Technologies S.A., or any of its parent companies and organizations.
 
