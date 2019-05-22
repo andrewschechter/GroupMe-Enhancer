@@ -36,12 +36,7 @@ This is currently an unpublished Chrome Extension. Clone or download this reposi
 * **Andy Peng** - [ghuser1023](https://github.com/ghuser1023)
 * **Andrew Schechter** - [andrewschechter](https://github.com/andrewschechter)
 * **Justin Woo** - [justinwoo395](https://github.com/justinwoo395)
-* **Kallan Bao** - [KallanBao](https://github.com/KallanBao)
 * **Neil Prajapati** - [DumboOctopus](https://github.com/DumboOctopus)
-
-
-See also the list of [contributors](https://github.com/justinwoo395/GroupMe-Extension/graphs/contributors) who participated in this project.
-
 
 ## Acknowledgments
 
